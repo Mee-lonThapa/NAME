@@ -1,0 +1,27 @@
+body {
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+  font-family: "poppin", "san-sarif";
+}
+
+h1 {
+  color: blue;
+  background-color: grey;
+  text-align: center;
+}
+
+.about {
+  color: white;
+  text-align: center;
+}
+
+.red {
+  background-color: red;
+  text-align: center;
+}
+
+.blue {
+  background-color: blue;
+  text-align: center;
+}
